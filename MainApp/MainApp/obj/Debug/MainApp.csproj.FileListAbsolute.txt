@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\MainApp\MainApp\bin\Debug\MainApp.exe.config
+C:\Users\Lenovo\source\repos\MainApp\MainApp\bin\Debug\MainApp.exe
+C:\Users\Lenovo\source\repos\MainApp\MainApp\bin\Debug\MainApp.pdb
+C:\Users\Lenovo\source\repos\MainApp\MainApp\bin\Debug\MySharedLibrary.dll
+C:\Users\Lenovo\source\repos\MainApp\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\MainApp\MainApp\obj\Debug\MainApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\MainApp\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MainApp\MainApp\obj\Debug\MainApp.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\MainApp\MainApp\obj\Debug\MainApp.exe
+C:\Users\Lenovo\source\repos\MainApp\MainApp\obj\Debug\MainApp.pdb
